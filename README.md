@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi,%20I’m%20Alex&fontSize=40)
 
-<img align="right" width="180" height="180" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/02/Career-Councelling.gif">
+<img align="right" width="160" height="160" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/02/Career-Councelling.gif">
 
 - 👀 I’m interested in Python, R and Matlab
 - 💻 I’m currently studying mathematical engineering and computing
